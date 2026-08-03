@@ -1,0 +1,194 @@
+[
+  {
+    "id": "moby-dick",
+    "text": "Call me Ishmael.",
+    "source": "Herman Melville, Moby-Dick",
+    "length": "short"
+  },
+  {
+    "id": "pride-prejudice",
+    "text": "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.",
+    "source": "Jane Austen, Pride and Prejudice",
+    "length": "medium"
+  },
+  {
+    "id": "tale-of-two-cities",
+    "text": "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness.",
+    "source": "Charles Dickens, A Tale of Two Cities",
+    "length": "medium"
+  },
+  {
+    "id": "1984",
+    "text": "War is peace. Freedom is slavery. Ignorance is strength.",
+    "source": "George Orwell, 1984",
+    "length": "short"
+  },
+  {
+    "id": "gatsby",
+    "text": "So we beat on, boats against the current, borne back ceaselessly into the past.",
+    "source": "F. Scott Fitzgerald, The Great Gatsby",
+    "length": "short"
+  },
+  {
+    "id": "anna-karenina",
+    "text": "All happy families are alike; each unhappy family is unhappy in its own way.",
+    "source": "Leo Tolstoy, Anna Karenina",
+    "length": "short"
+  },
+  {
+    "id": "frankenstein",
+    "text": "Nothing is so painful to the human mind as a great and sudden change.",
+    "source": "Mary Shelley, Frankenstein",
+    "length": "short"
+  },
+  {
+    "id": "alice-wonderland",
+    "text": "Curiouser and curiouser, cried Alice, so surprised that for the moment she quite forgot how to speak good English.",
+    "source": "Lewis Carroll, Alice's Adventures in Wonderland",
+    "length": "medium"
+  },
+  {
+    "id": "sherlock-holmes",
+    "text": "It is a capital mistake to theorize before one has data.",
+    "source": "Arthur Conan Doyle, A Scandal in Bohemia",
+    "length": "short"
+  },
+  {
+    "id": "war-and-peace",
+    "text": "If everyone fought for their own convictions there would be no war.",
+    "source": "Leo Tolstoy, War and Peace",
+    "length": "short"
+  },
+  {
+    "id": "meditations",
+    "text": "You have power over your mind, not outside events. Realize this, and you will find strength.",
+    "source": "Marcus Aurelius, Meditations",
+    "length": "medium"
+  },
+  {
+    "id": "walden",
+    "text": "I went to the woods because I wished to live deliberately, to front only the essential facts of life.",
+    "source": "Henry David Thoreau, Walden",
+    "length": "medium"
+  },
+  {
+    "id": "dorian-gray",
+    "text": "There is only one thing in the world worse than being talked about, and that is not being talked about.",
+    "source": "Oscar Wilde, The Picture of Dorian Gray",
+    "length": "medium"
+  },
+  {
+    "id": "moby-dick-2",
+    "text": "It is not down on any map; true places never are.",
+    "source": "Herman Melville, Moby-Dick",
+    "length": "short"
+  },
+  {
+    "id": "hamlet",
+    "text": "This above all, to thine own self be true, and it must follow, as the night the day, thou canst not then be false to any man.",
+    "source": "William Shakespeare, Hamlet",
+    "length": "long"
+  },
+  {
+    "id": "hamlet-to-be-or-not",
+    "text": "To be, or not to be, that is the question.",
+    "source": "William Shakespeare, Hamlet",
+    "length": "short"
+  },
+  {
+    "id": "descartes",
+    "text": "I think, therefore I am.",
+    "source": "Rene Descartes, Discourse on the Method",
+    "length": "short"
+  },
+  {
+    "id": "fellowship-riddle",
+    "text": "Not all those who wander are lost.",
+    "source": "J.R.R. Tolkien, The Fellowship of the Ring",
+    "length": "short"
+  },
+  {
+    "id": "lady-windermere",
+    "text": "We are all in the gutter, but some of us are looking at the stars.",
+    "source": "Oscar Wilde, Lady Windermere's Fan",
+    "length": "short"
+  },
+  {
+    "id": "1984-party-slogan",
+    "text": "Who controls the past controls the future. Who controls the present controls the past.",
+    "source": "George Orwell, 1984",
+    "length": "medium"
+  },
+  {
+    "id": "frankenstein-benevolent",
+    "text": "I was benevolent and good; misery made me a fiend. Make me happy, and I shall again be virtuous.",
+    "source": "Mary Shelley, Frankenstein",
+    "length": "medium"
+  },
+  {
+    "id": "dorian-gray-preface",
+    "text": "There is no such thing as a moral or an immoral book. Books are well written, or badly written. That is all.",
+    "source": "Oscar Wilde, The Picture of Dorian Gray",
+    "length": "medium"
+  },
+  {
+    "id": "sign-of-four",
+    "text": "How often have I said to you that when you have eliminated the impossible, whatever remains, however improbable, must be the truth?",
+    "source": "Arthur Conan Doyle, The Sign of Four",
+    "length": "medium"
+  },
+  {
+    "id": "tale-of-two-cities-full",
+    "text": "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair, we had everything before us, we had nothing before us, we were all going direct to Heaven, we were all going direct the other way.",
+    "source": "Charles Dickens, A Tale of Two Cities",
+    "length": "long"
+  },
+  {
+    "id": "walden-full",
+    "text": "I went to the woods because I wished to live deliberately, to front only the essential facts of life, and see if I could not learn what it had to teach, and not, when I came to die, discover that I had not lived.",
+    "source": "Henry David Thoreau, Walden",
+    "length": "long"
+  },
+  {
+    "id": "moby-dick-full",
+    "text": "Call me Ishmael. Some years ago, never mind how long precisely, having little or no money in my purse, and nothing particular to interest me on shore, I thought I would sail about a little and see the watery part of the world.",
+    "source": "Herman Melville, Moby-Dick",
+    "length": "long"
+  },
+  {
+    "id": "pride-prejudice-2",
+    "text": "However little known the feelings or views of such a man may be on his first entering a neighbourhood, this truth is so well fixed in the minds of the surrounding families that he is considered as the rightful property of some one or other of their daughters.",
+    "source": "Jane Austen, Pride and Prejudice",
+    "length": "long"
+  },
+  {
+    "id": "hamlet-soliloquy",
+    "text": "To be, or not to be, that is the question. Whether tis nobler in the mind to suffer the slings and arrows of outrageous fortune, or to take arms against a sea of troubles, and by opposing end them.",
+    "source": "William Shakespeare, Hamlet",
+    "length": "long"
+  },
+  {
+    "id": "tolkien-riddle-full",
+    "text": "All that is gold does not glitter, not all those who wander are lost; the old that is strong does not wither, deep roots are not reached by the frost. From the ashes a fire shall be woken, a light from the shadows shall spring; renewed shall be blade that was broken, the crownless again shall be king.",
+    "source": "J.R.R. Tolkien, The Fellowship of the Ring",
+    "length": "long"
+  },
+  {
+    "id": "alice-cheshire-cat",
+    "text": "Would you tell me, please, which way I ought to go from here? That depends a good deal on where you want to get to, said the Cat. I don't much care where, said Alice. Then it doesn't matter which way you go, said the Cat.",
+    "source": "Lewis Carroll, Alice's Adventures in Wonderland",
+    "length": "long"
+  },
+  {
+    "id": "anna-karenina-full",
+    "text": "All happy families are alike; each unhappy family is unhappy in its own way. All was confusion in the Oblonskys' house. The wife had found out that the husband was having an affair with their former French governess.",
+    "source": "Leo Tolstoy, Anna Karenina",
+    "length": "long"
+  },
+  {
+    "id": "study-in-scarlet",
+    "text": "From a drop of water a logician could infer the possibility of an Atlantic or a Niagara without having seen or heard of one or the other. So all life is a great chain, the nature of which is known whenever we are shown a single link of it.",
+    "source": "Arthur Conan Doyle, A Study in Scarlet",
+    "length": "long"
+  }
+]
