@@ -15,7 +15,7 @@
 ![pnpm](https://img.shields.io/badge/pnpm-black?style=flat-square&logo=pnpm&logoColor=white)
 
 <picture>
-  <a href="https://not-my-typo.vercel.app">
+  <a href="https://not-my-typo.vercel.app" target="_blank">
   <img alt="Not My Typo" src="public/misc/play-it-button.png" width="180px" >
   </a>
 </picture>
